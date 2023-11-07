@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a11410b-f7ec-4559-8bb8-482b41893142" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluraJava2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/calculos/Classificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/modelo/Episodios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/modelo/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/modelo/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pacote/projeto/modelo/Titulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a11410b-f7ec-4559-8bb8-482b41893142" name="Changes" comment="Primeiro estudo Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +61,30 @@
       <option name="presentableId" value="Default" />
       <updated>1697489331091</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro estudo Java">
+      <option name="closed" value="true" />
+      <created>1699316594939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699316594940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro estudo Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro estudo Java" />
   </component>
 </project>
